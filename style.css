@@ -1,0 +1,53 @@
+
+body{
+    font-size:30px;
+    background-color: blanchedalmond;
+}
+.navbar {
+    width: 200px;
+    background-color: lightseagreen;
+    float:left;
+    border: 3px solid black;
+    border-radius:30px;
+}
+
+.navbar a {
+    display: block;
+    padding: 10px;
+}
+
+
+
+.header {
+    background-color: aqua;
+    text-align: center;
+    font-size: 50px;
+}
+
+.home-page img {
+    width: 250px;
+    height: 250px;
+    margin-left:600px;
+    border-radius: 30px;
+    border:5px solid black;
+
+}
+.content
+{
+    padding: 20px;
+    border-radius: 50px;
+    margin-left: 12%;   
+    background-color: coral;
+}
+
+.article {
+    margin-bottom: 20px;
+    background-color: brown;
+    padding: 20px;
+    border-radius: 5px;
+}
+p{
+    background-color: linen;
+    border-radius:20px;
+    padding:20px;
+}
